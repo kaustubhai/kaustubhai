@@ -67,33 +67,33 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/python.png"/> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/python.png"/> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
+<img height=65px width="65" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-512.png" width="85" height="85"/>
+<img height=65px width="65" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-512.png"/>
 </td>
 
 </tr>
