@@ -22,7 +22,7 @@ alt="Github Stats"
 src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywhite&show_icons=true&hide_border=true"
 />
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhai&hide=java&layout=default)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhai&hide=java&layout=compact)
 
 
 
@@ -33,17 +33,17 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png"/>
 </td>
 </tr>
 
