@@ -1,16 +1,103 @@
-### Hi there 👋
 
-<!--
-**kaustubhai/kaustubhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋Hey there!
 
-Here are some ideas to get you started:
+I'm a Web Developer and UI/UX Researcher. I create websites great to feel and to see.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love web. I see, observe, research and code websites. Currently busy exploring the vast world of great websites and learning things...
+
+I have handful amount of knowledge in web development in HTML, CSS and JS and React. Exploring Node and Express.
+
+Advanced Data Structures in C++ with intermediate understanding of advanced Algorithms.
+
+- 🔭 I’m currently working on ... ReactJS and Wordpress CMS
+- 💻 I’m currently learning ... NodeJS
+- 💬 Ask me about ... Web Development
+- 📫 How to reach me ... [E-mail](kaustubh229@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/kaustubhai)
+- 📝 Where I work ... [Atlancey](https://atlancey.com/)
+ 
+
+<img
+align="left"
+alt="Github Stats"
+src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywhite&show_icons=true&hide_border=true"
+/>
+
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhai&hide=java&layout=default)
+
+
+
+<br>
+<table>
+<tbody>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="65" height="65"/> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span>
+<img src="https://img.icons8.com/color/50/000000/javascript.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center></center></b></span>
+<img src="https://docs.opencv.org/2.4/_static/opencv-logo-white.png" width="50" height="60"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img height=65px src="https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android/img/657431be3173fa86.png" > 
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50"/> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center></center></b></span>
+<img src="https://img.icons8.com/color/2x/arduino.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img src="https://img.icons8.com/color/50/000000/raspberry-pi.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+<img src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-512.png" width="85" height="85"/>
+</td>
+
+</tr>
+
+</tbody>
+</table
