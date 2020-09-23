@@ -9,11 +9,11 @@ I have handful amount of knowledge in web development in HTML, CSS and JS and Re
 
 Advanced Data Structures in C++ with intermediate understanding of advanced Algorithms.
 
-- 🔭 I’m currently working on ... ReactJS and Wordpress CMS
-- 💻 I’m currently learning ... NodeJS
-- 💬 Ask me about ... Web Development
-- 📫 How to reach me ... [E-mail](kaustubh229@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/kaustubhai)
-- 📝 Where I work ... [Atlancey](https://atlancey.com/)
+- 💪 I’m currently working on ... ReactJS and Wordpress CMS
+- 📗 I’m currently learning ... NodeJS
+- 🤙 How to reach me ... [E-mail](kaustubh229@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/kaustubhai)
+- 👨‍💻 Where I work ... [Atlancey](https://atlancey.com/)
+- 🕸️ My Portfolio ... [Kaustubhai](https://kaustubhai.netlify.app/) 
  
 
 <img
@@ -50,46 +50,45 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<img height=65px width="65" src="https://img.icons8.com/officel/48/000000/react.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="65" height="65"/> 
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://img.icons8.com/color/50/000000/javascript.png"/>
+<img height=65px width="65" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://docs.opencv.org/2.4/_static/opencv-logo-white.png" width="50" height="60"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img height=65px src="https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android/img/657431be3173fa86.png" > 
+<img src="https://img.icons8.com/color/48/000000/python.png"/> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50"/> 
-</td>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://img.icons8.com/color/2x/arduino.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/50/000000/raspberry-pi.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
 </td>
 
 <td align="center" width="20%">
