@@ -1,11 +1,11 @@
 
+### 👋Hey there!
+
 - 💪 I’m currently working on ... ReactJS and Wordpress CMS
 - 📗 I’m currently learning ... NodeJS
 - 🤙 How to reach me ... [E-mail](kaustubh229@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/kaustubhai)
 - 👨‍💻 Where I work ... [Atlancey](https://atlancey.com/)
 - 🕸️ My Portfolio ... [Kaustubhai](https://kaustubhai.netlify.app/) 
-
-### 👋Hey there!
 
 I'm a Web Developer and UI/UX Researcher. I create websites great to feel and to see.
 
