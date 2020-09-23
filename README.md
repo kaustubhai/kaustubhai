@@ -33,17 +33,17 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/css3.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </td>
 </tr>
 
