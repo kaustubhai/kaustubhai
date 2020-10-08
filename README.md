@@ -4,7 +4,7 @@
 
 - 💪 I’m currently working on ... ReactJS and Wordpress CMS
 - 📗 I’m currently learning ... NodeJS
-- 🤙 How to reach me ... [E-mail](kaustubh229@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/kaustubhai)
+- 🤙 How to reach me ... [E-mail](mailto:kaustubh229@gmail.com) or [Call](tel:7007992740)
 - 👨‍💻 Where I work ... [Atlancey](https://atlancey.com/)
 - 🕸️ My Portfolio ... [Kaustubhai](https://kaustubhai.netlify.app/) 
 
