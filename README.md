@@ -61,7 +61,7 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 
 <td align="center" width="20%">
 <span><b><center></center></b></span>
-<img height=65px width="65" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </td>
 </tr>
 
@@ -78,7 +78,7 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img height=65px width="65" src="https://img.icons8.com/ultraviolet/40/000000/go.png"/>
 </tr>
 
 <tr>
