@@ -47,7 +47,7 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img height=65px width="65" src="https://img.icons8.com/officel/48/000000/react-native.png"/>
+<img height=65px width="65" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </td>
 
 <td align="center" width="20%">
