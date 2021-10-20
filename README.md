@@ -5,7 +5,7 @@
 - 💪 I’m currently working on ... Open Source Contributions
 - 📗 I’m currently learning ... Data Structures
 - 🤙 How to reach me ... [E-mail](mailto:kaustubh229@gmail.com) or [Linkedin Profile](https://linkedin.com/in/kaustubhai)
-- 👨‍💻 Where I work ... [Atlancey](https://atlancey.com/)
+- 👨‍💻 Where I work ... [Smallcase](https://www.smallcase.com/)
 - 🕸️ My Portfolio ... [Kaustubhai](https://kaustubhai.netlify.app/) 
 
 I love web. I see, observe, research and code websites. Currently busy exploring the vast world of great websites and learning things...
@@ -20,7 +20,6 @@ src="https://github-readme-stats.vercel.app/api?username=kaustubhai&theme=graywh
 />
 
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhai&hide=java&layout=compact)
-
 
 
 <br>
